@@ -1,1 +1,3 @@
-# Joins multiple files of a project into one file for codingame contests.
+Combines multiple files of a project into a single file.
+Made for Codingame contests.
+
